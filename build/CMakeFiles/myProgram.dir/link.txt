@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g -rdynamic CMakeFiles/myProgram.dir/main.o CMakeFiles/myProgram.dir/segment1.o CMakeFiles/myProgram.dir/segment2.o CMakeFiles/myProgram.dir/segment3.o CMakeFiles/myProgram.dir/robotUtils.o CMakeFiles/myProgram.dir/motors.o -o myProgram 
